@@ -1,0 +1,16 @@
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\bin\Debug\net5.0\provaDeLogica_2.2.exe
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\bin\Debug\net5.0\provaDeLogica_2.2.deps.json
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\bin\Debug\net5.0\provaDeLogica_2.2.runtimeconfig.json
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\bin\Debug\net5.0\provaDeLogica_2.2.runtimeconfig.dev.json
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\bin\Debug\net5.0\provaDeLogica_2.2.dll
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\bin\Debug\net5.0\ref\provaDeLogica_2.2.dll
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\bin\Debug\net5.0\provaDeLogica_2.2.pdb
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\obj\Debug\net5.0\provaDeLogica_2.2.csprojAssemblyReference.cache
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\obj\Debug\net5.0\provaDeLogica_2.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\obj\Debug\net5.0\provaDeLogica_2.2.AssemblyInfoInputs.cache
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\obj\Debug\net5.0\provaDeLogica_2.2.AssemblyInfo.cs
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\obj\Debug\net5.0\provaDeLogica_2.2.csproj.CoreCompileInputs.cache
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\obj\Debug\net5.0\provaDeLogica_2.2.dll
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\obj\Debug\net5.0\ref\provaDeLogica_2.2.dll
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\obj\Debug\net5.0\provaDeLogica_2.2.pdb
+D:\07 - Curso C#\00 - C# orientado a objeto\provaDeLogica_2.2\obj\Debug\net5.0\provaDeLogica_2.2.genruntimeconfig.cache
